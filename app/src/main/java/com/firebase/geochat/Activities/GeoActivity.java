@@ -26,6 +26,9 @@ import com.firebase.client.ValueEventListener;
 import java.util.ArrayList;
 import java.util.Random;
 
+/**
+ * Created by Chris on 2014-12-29.
+ */
 public class GeoActivity extends ListActivity {
 
     private static final String FIREBASE_URL = "https://chattestprof.firebaseio.com/";

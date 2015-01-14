@@ -3,10 +3,7 @@ package com.firebase.geochat.ChatUtils;
 import com.firebase.client.Firebase;
 
 /**
- * @author Jenny Tong (mimming)
- * @since 12/5/14
- *
- * Initialize Firebase with the application context. This must happen before the client is used.
+ * Created by Chris on 2014-12-29.
  */
 public class ChatApplication extends android.app.Application {
     @Override

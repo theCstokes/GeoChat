@@ -1,8 +1,7 @@
 package com.firebase.geochat.ChatUtils;
 
 /**
- * @author greg
- * @since 6/21/13
+ * Created by Chris on 2014-12-29.
  */
 public class Chat {
 

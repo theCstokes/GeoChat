@@ -148,24 +148,6 @@ public class FirebaseServiceController<T> extends Service {
 
         });
 
-
-
-
-//        handler = new ValueEventListener() {
-//            @Override
-//            public void onDataChange(DataSnapshot arg0) {
-//                postNotif(arg0.getValue().toString());
-//            }
-//
-//            @Override
-//            public void onCancelled(FirebaseError firebaseError) {
-//
-//            }
-//        };
-//
-//        f.addValueEventListener(handler);
-
-
     }
 
     @Override
